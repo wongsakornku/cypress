@@ -1,0 +1,25 @@
+### System ###
+results
+screenshots
+.project
+.settings/*
+target/*
+.gitignore.swp
+src/main/resources/static/*
+*.jpg
+*.png
+
+### Node ###
+node/*
+node_modules/*
+
+### VS Code ###
+.vscode/*
+".gitignore" 24L, 269C
+target/
+
+# IDE
+*.iml
+.idea
+# OS metadata
+.DS_Store
